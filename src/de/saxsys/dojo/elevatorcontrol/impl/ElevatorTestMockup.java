@@ -1,5 +1,8 @@
-package de.saxsys.dojo.elevatorcontrol;
+package de.saxsys.dojo.elevatorcontrol.impl;
 
+import de.saxsys.dojo.elevatorcontrol.Direction;
+import de.saxsys.dojo.elevatorcontrol.Elevator;
+import de.saxsys.dojo.elevatorcontrol.ElevatorStatusVo;
 import java.util.Observable;
 import java.util.logging.Level;
 import java.util.logging.Logger;
