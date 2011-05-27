@@ -4,6 +4,7 @@
  */
 package de.saxsys.dojo.elevatorcontrol;
 
+import de.saxsys.dojo.elevatorcontrol.impl.ElevatorTestMockup;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
