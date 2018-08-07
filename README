@@ -4,7 +4,7 @@ The elevators computersystem has recently crashed and deleted the whole control
 implementation. All thats left are two interfaces, to see, how the control
 should be.
 
-Your task is now to implement aworking ElevatorController implementation,
+Your task is now to implement a working ElevatorController implementation,
 that fullfills the following kriteria.
 
 - The elevator can be called from every level of the building (-2,-1,0,1,2,3,4,5,6)
